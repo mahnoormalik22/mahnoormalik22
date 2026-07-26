@@ -2,13 +2,9 @@
 
 Software Engineer | Full-Stack Developer | QA Engineer 
 
-🎓 Software Engineering Graduate from the University of Central Punjab (UCP)
-
 Welcome to my GitHub profile! I am a passionate Software Engineer who enjoys building reliable, scalable, and user-focused software solutions. I specialize in Full-Stack Web Development, Mobile Application Development, Backend Engineering, and Software Quality Assurance.
 
 I love turning ideas into real-world applications by combining clean code, modern technologies, and quality-driven development practices. Along with developing applications, I focus on ensuring software reliability through testing, automation, and continuous improvement.
-
-Currently exploring AI-powered applications, cloud technologies, DevOps practices, backend architecture, and advanced test automation frameworks.
 
 
 ## 🌐 Socials:
