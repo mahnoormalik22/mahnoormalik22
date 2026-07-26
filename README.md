@@ -1,11 +1,10 @@
- Hi 👋, I'm Mahnoor Asghar
+I'm Mahnoor Asghar
 
 Software Engineer | Full-Stack Developer | QA Engineer 
 
-Welcome to my GitHub profile! I am a passionate Software Engineer who enjoys building reliable, scalable, and user-focused software solutions. I specialize in Full-Stack Web Development, Mobile Application Development, Backend Engineering, and Software Quality Assurance.
+I am a passionate Software Engineer who enjoys building reliable, scalable, and user-focused software solutions. 
 
-I love turning ideas into real-world applications by combining clean code, modern technologies, and quality-driven development practices. Along with developing applications, I focus on ensuring software reliability through testing, automation, and continuous improvement.
-
+I love turning ideas into real-world applications by combining clean code, modern technologies, and quality-driven development practices. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/mahnoor-asghar-59a90377) 
